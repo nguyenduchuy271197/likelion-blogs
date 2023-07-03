@@ -1,1 +1,1 @@
-- abc
+## Thông tin buổi học thử
