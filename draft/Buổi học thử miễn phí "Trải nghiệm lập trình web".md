@@ -19,8 +19,9 @@ Buổi học thử sẽ cung cấp một cái nhìn tổng quan về lĩnh vực
 
 Vì số lượng chỗ có hạn, mong bạn đăng ký trước để LIKELION sắp xếp và chuẩn bị quà nhé. 
 
-**Đăng ký buổi học thử lập trình web miễn phí [tại đây]([https://docs.google.com/forms/d/1aXyEXdCkjJdGkBlMAd2n1V-lwffBaAHyIJFPoI3dOn4/edit](https://docs.google.com/forms/d/1aXyEXdCkjJdGkBlMAd2n1V-lwffBaAHyIJFPoI3dOn4/edit))**
+### Đăng ký buổi học thử lập trình web miễn phí
 
+[![](https://res.cloudinary.com/dbscqlwl7/image/upload/v1688453943/blogs/buoi-hoc-thu-mien-phi-trai-nghiem-lap-trinh-web/tai-day.png)]([https://forms.gle/E1uYdwwD82XWfPpq6](https://forms.gle/E1uYdwwD82XWfPpq6))
 
 ## Thông tin khoá học Bootcamp 
 [Bootcamp lập trình web Fullstack](https://likelion-landing.vercel.app/courses/bootcamp-lap-trinh-web-fullstack) là khóa học 5 tháng với lộ trình đi từ cơ bản đến nâng cao dành cho cả những bạn chưa từng có kiến thức lập trình. LIKELION hỗ trợ bạn từ con số 0 đến thành thạo kiến thức và kỹ năng. Sau khoá học, bạn hoàn toàn có thể tự tin ứng tuyển vị trí Intern/Fresher Fullstack Developer. 
