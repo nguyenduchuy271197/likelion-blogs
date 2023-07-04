@@ -3,7 +3,7 @@ Vào ngày 14/07/2023, LIKELION sẽ tổ chức một buổi học thử dành 
 
 ## Thông tin buổi học thử
 
-- Thời gian: 6:00 PM - 9:00 PM, ngày 14/08/2023
+- Thời gian: 6:30 PM - 8:30 PM, ngày 14/07/2023
 - Địa điểm: Viện đổi mới sáng tạo UII 
 - Đối tượng: Những người đã đăng ký trước. Không yêu cầu kiến thức đầu vào. 
 - Hình thức: Offline 
@@ -24,7 +24,7 @@ Vì số lượng chỗ có hạn, mong bạn đăng ký trước để LIKELION
 [![](https://res.cloudinary.com/dbscqlwl7/image/upload/v1688453943/blogs/buoi-hoc-thu-mien-phi-trai-nghiem-lap-trinh-web/tai-day.png)]([https://forms.gle/E1uYdwwD82XWfPpq6](https://forms.gle/E1uYdwwD82XWfPpq6))
 
 ## Thông tin khoá học Bootcamp 
-[Bootcamp lập trình web Fullstack](https://likelion-landing.vercel.app/courses/bootcamp-lap-trinh-web-fullstack) là khóa học 5 tháng với lộ trình đi từ cơ bản đến nâng cao dành cho cả những bạn chưa từng có kiến thức lập trình. LIKELION hỗ trợ bạn từ con số 0 đến thành thạo kiến thức và kỹ năng. Sau khoá học, bạn hoàn toàn có thể tự tin ứng tuyển vị trí Intern/Fresher Fullstack Developer. 
+[Bootcamp lập trình web Fullstack](https://www.likelion.edu.vn/courses/bootcamp-lap-trinh-web-fullstack) là khóa học 5 tháng với lộ trình đi từ cơ bản đến nâng cao dành cho cả những bạn chưa từng có kiến thức lập trình. LIKELION hỗ trợ bạn từ con số 0 đến thành thạo kiến thức và kỹ năng. Sau khoá học, bạn hoàn toàn có thể tự tin ứng tuyển vị trí Intern/Fresher Fullstack Developer. 
 
 - Lịch học: Thứ 2, 4, 6 | 6:00 PM - 9:00 PM 
 - Ngày khai giảng: 02/08/2023 
