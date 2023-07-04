@@ -1,0 +1,33 @@
+
+Vào ngày 14/07/2023, LIKELION sẽ tổ chức một buổi học thử dành cho khoá Bootcamp lập trình web Fullstack. Đây sẽ là cơ hội tuyệt vời dành cho những bạn đang quan tâm hay phân vân về khoá học được trải nghiệm trước khi đưa ra quyết định đăng ký. 
+
+## Thông tin buổi học thử
+
+- Thời gian: 6:00 PM - 9:00 PM, ngày 14/08/2023
+- Địa điểm: Viện đổi mới sáng tạo UII 
+- Đối tượng: Những người đã đăng ký trước. Không yêu cầu kiến thức đầu vào. 
+- Hình thức: Offline 
+
+## Nội dung buổi học thử
+Buổi học thử sẽ cung cấp một cái nhìn tổng quan về lĩnh vực lập trình website và nội dung chi tiết về khoá học. Bên cạnh đó, đội ngũ giảng viên và tư vấn của LIKELION cũng sẽ luôn túc trực tại buổi học thử để giải đáp thắc mắc của mọi người. Đặc biệt, LIKELION cũng có một phần quà nhỏ xinh cho các bạn tham gia buổi học thử nữa nhé. 
+
+1. Giới thiệu khái quát về lập trình web. 
+2. Học thử một phần nhỏ để trải nghiệm phong cách giảng dạy. 
+3. Trao đổi kinh nghiệm học tập và làm việc trong lĩnh vực lập trình web. 
+4. Hỏi đáp về lập trình và khoá học.
+5. Nhận phần quà nhỏ xinh. 
+
+Vì số lượng chỗ có hạn, mong bạn đăng ký trước để LIKELION sắp xếp và chuẩn bị quà nhé. 
+
+## Đăng ký buổi học thử lập trình web miễn phí 
+Anh Huy tự embed form vô nha [https://docs.google.com/forms/d/1aXyEXdCkjJdGkBlMAd2n1V-lwffBaAHyIJFPoI3dOn4/edit](https://docs.google.com/forms/d/1aXyEXdCkjJdGkBlMAd2n1V-lwffBaAHyIJFPoI3dOn4/edit)
+
+## Thông tin khoá học Bootcamp 
+[Bootcamp lập trình web Fullstack](https://likelion-landing.vercel.app/courses/bootcamp-lap-trinh-web-fullstack) là khóa học 5 tháng với lộ trình đi từ cơ bản đến nâng cao dành cho cả những bạn chưa từng có kiến thức lập trình. LIKELION hỗ trợ bạn từ con số 0 đến thành thạo kiến thức và kỹ năng. Sau khoá học, bạn hoàn toàn có thể tự tin ứng tuyển vị trí Intern/Fresher Fullstack Developer. 
+
+- Lịch học: Thứ 2, 4, 6 | 6:00 PM - 9:00 PM 
+- Ngày khai giảng: 02/08/2023 
+- Hình thức: Offline 
+- Địa điểm: Viện Đổi mới Sáng tạo UEH (UII), 232/6 Võ Thị Sáu, quận 3, Hồ Chí Minh 
+
+[Liên hệ LIKELION](https://likelion-landing.vercel.app/contact) để chúng tôi có thể hỗ trợ bạn nhé! 
