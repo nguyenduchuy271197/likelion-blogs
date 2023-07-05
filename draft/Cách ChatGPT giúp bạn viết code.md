@@ -1,10 +1,10 @@
 ## Chat GPT có thể viết code không? 
-ChatGPT là một mô hình AI đàm thoại, có khả năng tạo văn bản với những từ khóa cơ bản bao gồm cả viết code. ChatGPT có khả năng viết các đoạn code bằng các ngôn ngữ lập trình phổ biến hiện nay như JavaScript, Python, C#, PHP và Java. Nó cũng có thể tạo ra tệp mẫu CSV input cho một vấn đề về khoa học dữ liệu.  Và còn nhiều hơn thế nữa. 
+ChatGPT là một mô hình AI đàm thoại, có khả năng tạo văn bản với những từ khóa cơ bản bao gồm cả viết code. Và văn bản đó bao gồm cả code. hatGPT có khả năng viết các đoạn code bằng các ngôn ngữ lập trình phổ biến hiện nay như JavaScript, Python, C#, PHP và Java. Nó cũng có thể tạo ra tệp mẫu CSV input cho một vấn đề về khoa học dữ liệu.  Và còn nhiều hơn thế nữa. 
 
 Hãy cùng xem ví dụ dưới đây. Không chỉ viết mỗi code, ChatGPT còn giải thích nguyên lý của những dòng code đó. Điều này đặc biệt giúp ích cho những người mới tiếp xúc với lập trình hoặc mới chuyển sang một ngôn ngữ mới.![[image 1.png]]
 
 ## Có nên sử dụng ChatGPT để viết code không? 
-ChatGPT "có thể code" nhưng liệu nó có đồng nghĩa với việc bạn *NÊN* dùng nó để viết code không hay? Chúng tôi sẽ không đưa ra câu trả lời chắc chắn là có hay không. Mà thay vào đó, qua bài viết này, chúng tôi sẽ chỉ ra cả những ưu và khuyết điểm của việc dùng ChatGPT trong quá trình code, để bạn xem xét có nên sử dụng hay không, và nếu có thì nên dùng như thế nào cho có hiệu quả.
+ChatGPT "có thể code" nhưng liệu nó có đồng nghĩa với việc bạn *NÊN* dùng nó để viết code hay không? Chúng tôi sẽ không đưa ra câu trả lời chắc chắn là có hay không. Mà thay vào đó, qua bài viết này, chúng tôi sẽ chỉ ra cả những ưu và khuyết điểm của việc dùng ChatGPT trong quá trình code, để giúp bạn cân nhắc xem có nên sử dụng hay không, và nếu có thì nên dùng như thế nào cho có hiệu quả.
 
 ### Ưu điểm 
 #### 1. Nhanh chóng và dễ dàng
